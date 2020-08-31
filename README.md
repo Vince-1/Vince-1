@@ -1,5 +1,3 @@
-![Vince's github stats](https://github-readme-stats.vercel.app/api?username=Vince-1&show_icons=true&theme=dark&count_private=true)
-
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Vince-1/Vince-1/master/header.svg" width="800px", height="400px">
 	<br>
@@ -14,3 +12,7 @@
 #### Contact me:
 
 📧 Email: `hac0852@qq.com`/`hao.wem.vince@gmail.com`
+
+#### stats
+
+![Vince's github stats](https://github-readme-stats.vercel.app/api?username=Vince-1&show_icons=true&theme=dark&count_private=true)

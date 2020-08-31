@@ -1,85 +1,16 @@
 ![Vince's github stats](https://github-readme-stats.vercel.app/api?username=Vince-1&show_icons=true&theme=dark&count_private=true)
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 400" width="800" height="400">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes shake {
-					0% {
-						transform: translate(0px, -6px);
-					}
-					100% {
-						transform: translate(0px, 6px);
-					}
-				}
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-		 			100% {
-						opacity: 1;
-					}
-				}
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #5a4040, #3a425f, #025f37);
-					background-size: 600% 400%;
-					animation: gradientBackground 16s ease infinite;
-					border-radius: 24px;
-					color: white;
-					text-align: center;
-				}
-				.noshadow {
-					text-shadow: 0 12px 5px rgba(0, 0, 0, 0.1); !important;
-				}
-				h1 {
-					font-size: 64px !important;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: shake ease-in-out 2s infinite alternate;
-				}
-				p {
-					font-size: 16px;
-					animation: 3s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
-			<div class="container">
-				<h1><span class="noshadow">👋</span>Hello World</h1>
-				<p class="easeIn">I'm a front kend developer, focusing on Angular,sometimes React</p>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Vince-1/Vince-1/master/header.svg" width="800px", height="400px">
+	<br>
+</div>
+
+#### Help me with my coding skills:
+
+- ⭐️ Star if you think my project is helpful
+- 💬 Leave suggestions on my repos
+- 🧑‍💻 Contribute to my projects
+
+#### Contact me:
+
+📧 Email: `hac0852@qq.com`/`hao.wem.vince@gmail.com`
